@@ -1,0 +1,123 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3171
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 433
+ 1 string m_Name = ""
+ 0 int old_value_ = 0
+ 0 PPtr<$GameObject> body_
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3174
+ 0 AssetBundleSprite item_bg_
+  0 PPtr<$SpriteRenderer> sprite_renderer_
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 3177
+  0 vector sprite_data_
+   1 Array Array (0 items)
+    0 int size = 0
+  0 PPtr<$AssetBundle> asset_bundle_
+   0 int m_FileID = 0
+   0 SInt64 m_PathID = 0
+  0 int sprite_no_ = 0
+  1 string path_ = ""
+  1 string name_ = ""
+ 0 PPtr<$Text> option_title_
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3181
+ 0 vector touch_list_
+  1 Array Array (3 items)
+   0 int size = 3
+   [0]
+    0 PPtr<$InputTouch> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3207
+   [1]
+    0 PPtr<$InputTouch> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3212
+   [2]
+    0 PPtr<$InputTouch> data
+     0 int m_FileID = 0
+     0 SInt64 m_PathID = 3217
+ 0 OptionSelectButton select_
+  0 AssetBundleSprite select_btn_
+   1 Array Array (3 items)
+    0 int size = 3
+    [0]
+     0 AssetBundleSprite data
+      0 PPtr<$SpriteRenderer> sprite_renderer_
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3205
+      0 vector sprite_data_
+       1 Array Array (0 items)
+        0 int size = 0
+      0 PPtr<$AssetBundle> asset_bundle_
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+      0 int sprite_no_ = 0
+      1 string path_ = ""
+      1 string name_ = ""
+    [1]
+     0 AssetBundleSprite data
+      0 PPtr<$SpriteRenderer> sprite_renderer_
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3210
+      0 vector sprite_data_
+       1 Array Array (0 items)
+        0 int size = 0
+      0 PPtr<$AssetBundle> asset_bundle_
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+      0 int sprite_no_ = 0
+      1 string path_ = ""
+      1 string name_ = ""
+    [2]
+     0 AssetBundleSprite data
+      0 PPtr<$SpriteRenderer> sprite_renderer_
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 3215
+      0 vector sprite_data_
+       1 Array Array (0 items)
+        0 int size = 0
+      0 PPtr<$AssetBundle> asset_bundle_
+       0 int m_FileID = 0
+       0 SInt64 m_PathID = 0
+      0 int sprite_no_ = 0
+      1 string path_ = ""
+      1 string name_ = ""
+  0 AssetBundleSprite count_window_
+   0 PPtr<$SpriteRenderer> sprite_renderer_
+    0 int m_FileID = 0
+    0 SInt64 m_PathID = 3186
+   0 vector sprite_data_
+    1 Array Array (0 items)
+     0 int size = 0
+   0 PPtr<$AssetBundle> asset_bundle_
+    0 int m_FileID = 0
+    0 SInt64 m_PathID = 0
+   0 int sprite_no_ = 0
+   1 string path_ = ""
+   1 string name_ = ""
+  0 vector count_text_
+   1 Array Array (4 items)
+    0 int size = 4
+    [0]
+     0 PPtr<$Text> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 3192
+    [1]
+     0 PPtr<$Text> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 3196
+    [2]
+     0 PPtr<$Text> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 3200
+    [3]
+     0 PPtr<$Text> data
+      0 int m_FileID = 0
+      0 SInt64 m_PathID = 3200
+ 0 float select_space_ = 252

@@ -1,0 +1,310 @@
+[0]
+Données
+
+[1]
+Musique
+
+[2]
+Effets
+
+[3]
+Avance rapide
+
+[4]
+Trembl. écran
+
+[5]
+Vibration
+
+[6]
+Transpar. fenêtre
+
+[7]
+Langue
+
+[8]
+Crédits
+
+[9]
+Sauvegarder
+
+[10]
+Charger
+
+[11]
+Oui
+
+[12]
+Non
+
+[13]
+Un dialogue
+
+[14]
+Sans interruption
+
+[15]
+Légère
+
+[16]
+Élevée
+
+[17]
+Japonais
+
+[18]
+Anglais
+
+[19]
+Français
+
+[20]
+Allemand
+
+[21]
+Coréen
+
+[22]
+Chinois (simplifié)
+
+[23]
+Chinois (traditionnel)
+
+[24]
+Sauvegarder ou charger une partie.
+
+[25]
+Ajuster le volume de la musique.
+
+[26]
+Ajuster le volume des effets sonores.
+
+[27]
+Ajuster les paramètres de défilement du texte.
+(Maintenir le bouton B pour passer le texte.)
+
+[28]
+Ajuster les paramètres de défilement du texte.
+(Maintenir la touche B pour passer le texte.)
+
+[29]
+Ajuster les paramètres de défilement du texte.
+(Maintenir la touche × pour passer le texte.)
+
+[30]
+Ajuster les paramètres de défilement du texte.
+(Maintenir la touche ○ pour passer le texte.)
+
+[31]
+Ajuster les paramètres de défilement du texte.
+(Maintenir 【】 pour passer le texte.)
+
+[32]
+Activer ou désactiver les tremblements de l'écran.
+
+[33]
+Activer ou désactiver la vibration.
+
+[34]
+Ajuster la transparence de la fenêtre de texte.
+
+[35]
+Sélectionner la langue de jeu.
+Appuyer sur le bouton A pour sélectionner la langue.
+
+[36]
+Sélectionner la langue de jeu.
+Appuyer sur la touche A pour sélectionner la langue.
+
+[37]
+Sélectionner la langue de jeu.
+Appuyer sur la touche ○ pour sélectionner la langue.
+
+[38]
+Sélectionner la langue de jeu.
+Appuyer sur la touche × pour sélectionner la langue.
+
+[39]
+Sélectionner la langue de jeu.
+Appuyer sur 【】 pour sélectionner la langue.
+
+[40]
+Voir les crédits de ce jeu.
+
+[41]
+
+
+[42]
+Retourner à l'écran titre ?
+Toute progression non sauvegardée sera perdue.
+
+[43]
+Retour
+
+[44]
+Écran titre
+
+[45]
+Par défaut
+
+[46]
+Les paramètres de langue ont changé.
+Sélectionnez une langue différente pour passer
+aux données de sauvegarde de cette version.
+Bouton A : OK
+
+[47]
+Les paramètres de langue ont changé.
+Sélectionnez une langue différente pour passer
+aux données sauvegardées pour cette version.
+Touche A : OK
+
+[48]
+Les paramètres de langue ont changé.
+Sélectionnez une langue différente pour passer
+aux données sauvegardées pour cette version.
+Touche 〇 : OK
+
+[49]
+Les paramètres de langue ont changé.
+Sélectionnez une langue différente pour passer
+aux données sauvegardées pour cette version.
+Touche × : OK
+
+[50]
+Les paramètres de langue ont changé.
+Sélectionnez une langue différente pour passer
+aux données sauvegardées pour cette version.
+【】: OK
+
+[51]
+Rétablir les paramètres par défaut ?
+
+[52]
+Mode d'affichage
+
+[53]
+Résolution
+
+[54]
+V-Sync
+
+[55]
+Fenêtre
+
+[56]
+Plein écran
+
+[57]
+
+
+[58]
+Sélectionner un mode d'affichage.
+
+[59]
+Changer la résolution de l'écran.
+
+[60]
+Activer ou désactiver la synchronisation verticale.
+
+[61]
+Changer la configuration des touches.
+Confirmez les changements avec 【】.
+
+[62]
+Configurer les touches du clavier.
+Assignez une nouvelle touche avec 【】.
+
+[63]
+Appuyez sur une touche pour l'assigner à cette action.
+
+[64]
+Conserver les changements ?
+
+[65]
+La configuration des touches a été modifiée.
+Conserver les changements ?
+
+[66]
+Touches
+
+[67]
+Confirmer les changements
+
+[68]
+Confirmer
+
+[69]
+Annuler
+
+[70]
+Présenter
+
+[71]
+Attaquer
+
+[72]
+Dossier
+
+[73]
+Options
+
+[74]
+Profils/Preuves
+
+[75]
+Retour au titre
+
+[76]
+Déplacer le curseur
+
+[77]
+Rotation (preuve)
+
+[78]
+î
+
+[79]
+ï
+
+[80]
+→
+
+[81]
+←
+
+[82]
+Autres options
+
+[83]
+Vibrations
+
+[84]
+Activer ou désactiver les vibrations.
+
+[85]
+Vibration
+
+[86]
+Activer ou désactiver la vibration.
+
+[87]
+
+
+[88]
+
+
+[89]
+Discord RPC
+
+[90]
+Régler le mode Discord Rich Presence.
+
+[91]
+Désactivé
+
+[92]
+Simple
+
+[93]
+Détaillé

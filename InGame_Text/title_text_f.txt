@@ -1,0 +1,81 @@
+[0]
+Nouvelle Partie
+
+[1]
+Continuer
+
+[2]
+Options
+
+[3]
+Jouer au jeu
+
+[4]
+
+
+[5]
+Jouer à "
+" ?
+
+[6]
+Oui
+
+[7]
+Non
+
+[8]
+Phoenix Wright: Ace Attorney
+PW:AA - Justice For All
+PW:AA - Trials and Tribulations
+
+[9]
+Épisode 1
+Épisode 2
+Épisode 3
+Épisode 4
+Épisode 5
+
+[10]
+La première volte-face
+La volte-face des sœurs
+La volte-face du samouraï
+Adieux et volte-face
+Phoenix renaît de ses cendres
+
+[11]
+La volte-face perdue
+Réunion, et volte-face
+Volte-face circus
+Adieu ma volte-face
+ダミー
+
+[12]
+Souvenirs et volte-face
+La volte-face volée
+Recette de volte-face
+La volte-face initiale
+Le pont des volte-face
+
+[13]
+Quitter le jeu
+
+[14]
+Quitter le jeu ?
+
+[15]
+Appuyer sur le bouton A
+
+[16]
+Appuyer sur la touche ○
+
+[17]
+Appuyer sur la touche ×
+
+[18]
+Appuyer sur la touche A
+
+[19]
+Appuyer sur 【】
+
+[20]
+Menu principal

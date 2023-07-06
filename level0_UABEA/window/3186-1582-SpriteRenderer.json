@@ -1,0 +1,75 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3185
+  },
+  "m_Enabled": true,
+  "m_CastShadows": 0,
+  "m_ReceiveShadows": 0,
+  "m_DynamicOccludee": 1,
+  "m_MotionVectors": 1,
+  "m_LightProbeUsage": 1,
+  "m_ReflectionProbeUsage": 1,
+  "m_LightmapIndex": 65535,
+  "m_LightmapIndexDynamic": 65535,
+  "m_LightmapTilingOffset": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_LightmapTilingOffsetDynamic": {
+    "x": 1.0,
+    "y": 1.0,
+    "z": 0.0,
+    "w": 0.0
+  },
+  "m_Materials": {
+    "Array": [
+      {
+        "m_FileID": 1,
+        "m_PathID": 2
+      }
+    ]
+  },
+  "m_StaticBatchInfo": {
+    "firstSubMesh": 0,
+    "subMeshCount": 0
+  },
+  "m_StaticBatchRoot": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_ProbeAnchor": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_LightProbeVolumeOverride": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_SortingLayerID": 0,
+  "m_SortingLayer": 0,
+  "m_SortingOrder": 0,
+  "m_Sprite": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Color": {
+    "r": 1.0,
+    "g": 1.0,
+    "b": 1.0,
+    "a": 1.0
+  },
+  "m_FlipX": false,
+  "m_FlipY": false,
+  "m_DrawMode": 0,
+  "m_Size": {
+    "x": 1.0,
+    "y": 1.0
+  },
+  "m_AdaptiveModeThreshold": 0.5,
+  "m_SpriteTileMode": 0,
+  "m_WasSpriteAssigned": false,
+  "m_MaskInteraction": 0
+}

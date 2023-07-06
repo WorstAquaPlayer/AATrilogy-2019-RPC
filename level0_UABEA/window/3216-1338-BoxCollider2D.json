@@ -1,0 +1,48 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 3214
+  },
+  "m_Enabled": 1,
+  "m_Density": 1.0,
+  "m_Material": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_IsTrigger": false,
+  "m_UsedByEffector": false,
+  "m_UsedByComposite": false,
+  "m_Offset": {
+    "x": 0.0,
+    "y": 0.0
+  },
+  "m_SpriteTilingProperty": {
+    "border": {
+      "x": 0.0,
+      "y": 0.0,
+      "z": 0.0,
+      "w": 0.0
+    },
+    "pivot": {
+      "x": 0.5,
+      "y": 0.5
+    },
+    "oldSize": {
+      "x": 23.0,
+      "y": 25.0
+    },
+    "newSize": {
+      "x": 23.0,
+      "y": 25.0
+    },
+    "adaptiveTilingThreshold": 0.5,
+    "drawMode": 0,
+    "adaptiveTiling": false
+  },
+  "m_AutoTiling": false,
+  "m_Size": {
+    "x": 100.0,
+    "y": 85.0
+  },
+  "m_EdgeRadius": 0.0
+}

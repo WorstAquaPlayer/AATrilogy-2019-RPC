@@ -1,0 +1,12 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 673
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 591
+ 1 string m_Name = ""
+ 0 PPtr<$BoxCollider2D> box_collider_2d_
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3216

@@ -1,0 +1,158 @@
+// How to add a field: Right click "TextDataCtrl.OptionTextID" -> Create Field.
+// Create fields with these values:
+// Name: ITEM_RPC, Value: 89
+// Name: COMMENT_RPC, Value: 90
+// Name: RPC_1, Value: 91
+// Name: RPC_2, Value: 92
+// Name: RPC_3, Value: 93
+
+public enum OptionTextID
+{
+    // Token: 0x040011FF RID: 4607
+    ITEM_SAVE,
+    // Token: 0x04001200 RID: 4608
+    ITEM_BGM,
+    // Token: 0x04001201 RID: 4609
+    ITEM_SE,
+    // Token: 0x04001202 RID: 4610
+    ITEM_SKIP,
+    // Token: 0x04001203 RID: 4611
+    ITEM_SHAKE,
+    // Token: 0x04001204 RID: 4612
+    ITEM_VIBRATION,
+    // Token: 0x04001205 RID: 4613
+    ITEM_TRANSPARENCY,
+    // Token: 0x04001206 RID: 4614
+    ITEM_LANGUAGE,
+    // Token: 0x04001207 RID: 4615
+    ITEM_CREDITS,
+    // Token: 0x04001208 RID: 4616
+    SELECT_SAVE,
+    // Token: 0x04001209 RID: 4617
+    SELECT_LOAD,
+    // Token: 0x0400120A RID: 4618
+    SELECT_ON,
+    // Token: 0x0400120B RID: 4619
+    SELECT_OFF,
+    // Token: 0x0400120C RID: 4620
+    SELECT_STOP,
+    // Token: 0x0400120D RID: 4621
+    SELECT_SKIP,
+    // Token: 0x0400120E RID: 4622
+    SELECT_LOW,
+    // Token: 0x0400120F RID: 4623
+    SELECT_HIGH,
+    // Token: 0x04001210 RID: 4624
+    JAPANESE,
+    // Token: 0x04001211 RID: 4625
+    ENGLISH,
+    // Token: 0x04001212 RID: 4626
+    FRENCH,
+    // Token: 0x04001213 RID: 4627
+    GERMAN,
+    // Token: 0x04001214 RID: 4628
+    KOREAN,
+    // Token: 0x04001215 RID: 4629
+    CHINESE_SIMPLIFIED,
+    // Token: 0x04001216 RID: 4630
+    CHINESE_TRADITIONAL,
+    // Token: 0x04001217 RID: 4631
+    COMMENT_SAVE,
+    // Token: 0x04001218 RID: 4632
+    COMMENT_BGM,
+    // Token: 0x04001219 RID: 4633
+    COMMENT_SE,
+    // Token: 0x0400121A RID: 4634
+    COMMENT_SKIP = 31,
+    // Token: 0x0400121B RID: 4635
+    COMMENT_SHAKE,
+    // Token: 0x0400121C RID: 4636
+    COMMENT_VIBRATION,
+    // Token: 0x0400121D RID: 4637
+    COMMENT_TRANSPARENCY,
+    // Token: 0x0400121E RID: 4638
+    COMMENT_LANGUAGE = 39,
+    // Token: 0x0400121F RID: 4639
+    COMMENT_CREDITS,
+    // Token: 0x04001220 RID: 4640
+    LANGUAGE_CHANGE,
+    // Token: 0x04001221 RID: 4641
+    GO_TITLE,
+    // Token: 0x04001222 RID: 4642
+    BACK,
+    // Token: 0x04001223 RID: 4643
+    TITLE,
+    // Token: 0x04001224 RID: 4644
+    DEFAULT,
+    // Token: 0x04001225 RID: 4645
+    LANGUAGE_SAVE = 50,
+    // Token: 0x04001226 RID: 4646
+    SET_DEFAULT,
+    // Token: 0x04001227 RID: 4647
+    ITEM_SCREEN,
+    // Token: 0x04001228 RID: 4648
+    ITEM_RESOLUTION,
+    // Token: 0x04001229 RID: 4649
+    ITEM_VSYNC,
+    // Token: 0x0400122A RID: 4650
+    SELECT_WINDOW,
+    // Token: 0x0400122B RID: 4651
+    SELECT_FULLSCREEN,
+    // Token: 0x0400122C RID: 4652
+    SELECT_VFULLSCREEN,
+    // Token: 0x0400122D RID: 4653
+    COMMENT_SCREEN,
+    // Token: 0x0400122E RID: 4654
+    COMMENT_RESOLUTION,
+    // Token: 0x0400122F RID: 4655
+    COMMENT_VSYNC,
+    // Token: 0x04001230 RID: 4656
+    COMMENT_KEY_CONFIG_DECIDE,
+    // Token: 0x04001231 RID: 4657
+    COMMENT_KEY_CONFIG,
+    // Token: 0x04001232 RID: 4658
+    COMMENT_KEY_CONFIG_INPUT,
+    // Token: 0x04001233 RID: 4659
+    COMMENT_KEY_CONFIG_CHECK,
+    // Token: 0x04001234 RID: 4660
+    COMMENT_KEY_CONFIG_CHECK2,
+    // Token: 0x04001235 RID: 4661
+    ITEM_KEYCONFIG,
+    // Token: 0x04001236 RID: 4662
+    ITEM_CONFIG_DECIDE,
+    // Token: 0x04001237 RID: 4663
+    ITEM_DECIDE,
+    // Token: 0x04001238 RID: 4664
+    ITEM_CANCEL,
+    // Token: 0x04001239 RID: 4665
+    ITEM_TUKITUKE,
+    // Token: 0x0400123A RID: 4666
+    ITEM_YUSABURI,
+    // Token: 0x0400123B RID: 4667
+    ITEM_RECORD,
+    // Token: 0x0400123C RID: 4668
+    ITEM_OPTION,
+    // Token: 0x0400123D RID: 4669
+    ITEM_PERSON,
+    // Token: 0x0400123E RID: 4670
+    ITEM_TITLE_RETURN,
+    // Token: 0x0400123F RID: 4671
+    ITEM_KEY_MOVE,
+    // Token: 0x04001240 RID: 4672
+    ITEM_KEY_ROT,
+    // Token: 0x04001241 RID: 4673
+    ITEM_UP_ARROW,
+    // Token: 0x04001242 RID: 4674
+    ITEM_DOWM_ARROW,
+    // Token: 0x04001243 RID: 4675
+    ITEM_RIGHT_ARROW,
+    // Token: 0x04001244 RID: 4676
+    ITEM_LEFT_ARROW,
+    // Token: 0x04001245 RID: 4677
+    CHANGE,
+    ITEM_RPC = 89, // mod, 88 is used in Spanish translation
+    COMMENT_RPC,
+    RPC_1,
+    RPC_2,
+    RPC_3
+}

@@ -1,0 +1,34 @@
+{
+  "m_Component": {
+    "Array": [
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 3213
+        }
+      },
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 3215
+        }
+      },
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 3216
+        }
+      },
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 3217
+        }
+      }
+    ]
+  },
+  "m_Layer": 8,
+  "m_Name": "btn03",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

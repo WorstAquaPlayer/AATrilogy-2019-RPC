@@ -1,0 +1,81 @@
+[0]
+Neues Spiel
+
+[1]
+Spiel Laden
+
+[2]
+Optionen
+
+[3]
+Dieses Spiel starten
+
+[4]
+
+
+[5]
+Möchtest du 
+spielen?
+
+[6]
+Ja
+
+[7]
+Nein
+
+[8]
+Phoenix Wright: Ace Attorney
+PW:AA - Justice For All
+PW:AA - Trials and Tribulations
+
+[9]
+Episode 1
+Episode 2
+Episode 3
+Episode 4
+Episode 5
+
+[10]
+Der erste Wandel
+Wandel der Schwestern
+Wandel des Samurai
+Adieu und Wandel
+Aus der Asche
+
+[11]
+Der vergessene Wandel
+Wiedersehen und Wandel
+Wandel im Zirkuszelt
+Leb wohl, Wandel
+
+
+[12]
+Wandel der Erinnerung
+Der gestohlene Wandel
+Wandel nach Rezept
+Der ursprüngliche Wandel
+Brücke zum Wandel
+
+[13]
+Spiel verlassen
+
+[14]
+Möchtest du dieses Spiel verlassen?
+
+[15]
+Drücke den A-Knopf
+
+[16]
+Drücke die ○-Taste
+
+[17]
+Drücke die ×-Taste
+
+[18]
+Drücke die A-Taste
+
+[19]
+Drücke 【】
+
+[20]
+Hauptmenü

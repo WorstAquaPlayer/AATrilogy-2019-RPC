@@ -1,0 +1,28 @@
+{
+  "m_Component": {
+    "Array": [
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 3178
+        }
+      },
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 3180
+        }
+      },
+      {
+        "component": {
+          "m_FileID": 0,
+          "m_PathID": 3181
+        }
+      }
+    ]
+  },
+  "m_Layer": 8,
+  "m_Name": "text",
+  "m_Tag": 0,
+  "m_IsActive": true
+}

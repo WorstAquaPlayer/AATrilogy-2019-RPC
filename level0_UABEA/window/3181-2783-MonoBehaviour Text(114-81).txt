@@ -1,0 +1,40 @@
+0 MonoBehaviour Base
+ 0 PPtr<GameObject> m_GameObject
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 3179
+ 1 UInt8 m_Enabled = 1
+ 0 PPtr<MonoScript> m_Script
+  0 int m_FileID = 1
+  0 SInt64 m_PathID = 1183
+ 1 string m_Name = ""
+ 0 PPtr<$Material> m_Material
+  0 int m_FileID = 0
+  0 SInt64 m_PathID = 0
+ 0 Color m_Color
+  0 float r = 1
+  0 float g = 1
+  0 float b = 1
+  0 float a = 1
+ 1 UInt8 m_RaycastTarget = 1
+ 0 CullStateChangedEvent m_OnCullStateChanged
+  0 PersistentCallGroup m_PersistentCalls
+   0 PersistentCall m_Calls
+    1 Array Array (0 items)
+     0 int size = 0
+  1 string m_TypeName = "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null"
+ 0 FontData m_FontData
+  0 PPtr<$Font> m_Font
+   0 int m_FileID = 2
+   0 SInt64 m_PathID = 67
+  0 int m_FontSize = 38
+  0 int m_FontStyle = 0
+  1 UInt8 m_BestFit = 0
+  0 int m_MinSize = 3
+  0 int m_MaxSize = 46
+  0 int m_Alignment = 3
+  1 UInt8 m_AlignByGeometry = 0
+  1 UInt8 m_RichText = 1
+  0 int m_HorizontalOverflow = 0
+  0 int m_VerticalOverflow = 0
+  0 float m_LineSpacing = 1
+ 1 string m_Text = ""

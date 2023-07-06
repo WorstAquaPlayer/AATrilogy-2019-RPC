@@ -1,0 +1,81 @@
+[0]
+New Game
+
+[1]
+Continue
+
+[2]
+Options
+
+[3]
+Play this game
+
+[4]
+From chapter start
+
+[5]
+Play "
+"?
+
+[6]
+Yes
+
+[7]
+No
+
+[8]
+Phoenix Wright: Ace Attorney
+PW:AA - Justice For All
+PW:AA - Trials and Tribulations
+
+[9]
+Episode 1
+Episode 2
+Episode 3
+Episode 4
+Episode 5
+
+[10]
+The First Turnabout
+Turnabout Sisters
+Turnabout Samurai
+Turnabout Goodbyes
+Rise from the Ashes
+
+[11]
+The Lost Turnabout
+Reunion, and Turnabout
+Turnabout Big Top
+Farewell, My Turnabout
+ダミー
+
+[12]
+Turnabout Memories
+The Stolen Turnabout
+Recipe for Turnabout
+Turnabout Beginnings
+Bridge to the Turnabout
+
+[13]
+Exit Game
+
+[14]
+Exit this game?
+
+[15]
+Press the A Button
+
+[16]
+Press the ○ Button
+
+[17]
+Press the × Button
+
+[18]
+Press the A Button
+
+[19]
+Press 【】
+
+[20]
+Main Menu

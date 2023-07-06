@@ -1,0 +1,311 @@
+[0]
+Daten
+
+[1]
+Musik
+
+[2]
+Effekte
+
+[3]
+Text überspringen
+
+[4]
+Bildwackeln
+
+[5]
+Vibration
+
+[6]
+Textbox-Transpar.
+
+[7]
+Sprache
+
+[8]
+Mitwirkende
+
+[9]
+Speichern
+
+[10]
+Laden
+
+[11]
+Ein
+
+[12]
+Aus
+
+[13]
+Eine Textbox
+
+[14]
+Vollautomatisch
+
+[15]
+Niedrig
+
+[16]
+Hoch
+
+[17]
+Japanisch
+
+[18]
+Englisch
+
+[19]
+Französisch
+
+[20]
+Deutsch
+
+[21]
+Koreanisch
+
+[22]
+Chinesisch (vereinfacht)
+
+[23]
+Chinesisch (traditionell)
+
+[24]
+Ein Spiel speichern oder laden.
+
+[25]
+Die Musiklautstärke einstellen.
+
+[26]
+Die Effektlautstärke einstellen.
+
+[27]
+Einstellen, wie Text übersprungen wird.
+(Den B-Knopf halten, um Text zu überspringen.)
+
+[28]
+Einstellen, wie Text übersprungen wird.
+(Die B-Taste halten, um Text zu überspringen.)
+
+[29]
+Einstellen, wie Text übersprungen wird.
+(Die ×-Taste halten, um Text zu überspringen.)
+
+[30]
+Einstellen, wie Text übersprungen wird.
+(Die ○-Taste halten, um Text zu überspringen.)
+
+[31]
+Einstellen, wie Text übersprungen wird.
+(【】 halten, um Text zu überspringen.)
+
+[32]
+Den Bildwackeleffekt ein- und ausschalten.
+
+[33]
+Vibration ein- und ausschalten.
+
+[34]
+Die Transparenz der Textboxen anpassen.
+
+[35]
+Eine Sprache auswählen.
+Den A-Knopf drücken, um die Sprache einzustellen.
+
+[36]
+Eine Sprache auswählen.
+Die A-Taste drücken, um die Sprache einzustellen.
+
+[37]
+Eine Sprache auswählen.
+Die ○-Taste drücken, um die Sprache einzustellen.
+
+[38]
+Eine Sprache auswählen.
+Die ×-Taste drücken, um die Sprache einzustellen.
+
+[39]
+Eine Sprache auswählen.
+【】 drücken, um die Sprache einzustellen.
+
+[40]
+Die Mitwirkenden dieses Spiels anzeigen.
+
+[41]
+
+
+[42]
+Zum Titelbildschirm zurückkehren?
+Nicht gespeicherter Fortschritt geht verloren.
+
+[43]
+Zurück
+
+[44]
+Titelbildschirm
+
+[45]
+Standard
+
+[46]
+Die Spracheinstellungen wurden geändert.
+Wähle eine andere Sprache, um zu den
+Speicherdaten dieser Version zu wechseln.
+A-Knopf: OK
+
+[47]
+Die Spracheinstellungen wurden geändert.
+Wähle eine andere Sprache, um zu den
+Speicherdaten dieser Version zu wechseln.
+A-Taste: OK
+
+[48]
+Die Spracheinstellungen wurden geändert.
+Wähle eine andere Sprache, um zu den
+Speicherdaten dieser Version zu wechseln.
+〇-Taste: OK
+
+[49]
+Die Spracheinstellungen wurden geändert.
+Wähle eine andere Sprache, um zu den
+Speicherdaten dieser Version zu wechseln.
+×-Taste: OK
+
+[50]
+Die Spracheinstellungen wurden geändert.
+Wähle eine andere Sprache, um zu den
+Speicherdaten dieser Version zu wechseln.
+【】: OK
+
+[51]
+Die Standardeinstellungen wiederherstellen?
+
+[52]
+Anzeigemodus
+
+[53]
+Auflösung
+
+[54]
+V-Sync
+
+[55]
+Fenster
+
+[56]
+Vollbild
+
+[57]
+
+
+[58]
+Den Anzeigemodus ändern.
+
+[59]
+Die Bildschirmauflösung ändern.
+
+[60]
+Die vertikale Synchronisation ein- und ausschalten.
+
+[61]
+Verschiedenen Aktionen Tasten zuweisen.
+【】drücken, um die Änderungen anzuwenden.
+
+[62]
+Die Funktionen der Tasten anpassen.
+【】drücken, um Änderungen vorzunehmen.
+
+[63]
+Eine Taste drücken,
+um sie der Aktion zuzuweisen.
+
+[64]
+Sollen die Änderungen angewendet werden?
+
+[65]
+Die Tastenzuweisungen wurden geändert.
+Sollen diese Änderungen angewendet werden?
+
+[66]
+Tastatur
+
+[67]
+Änderungen anwenden
+
+[68]
+Bestätigen
+
+[69]
+Abbrechen
+
+[70]
+Präsentieren
+
+[71]
+Angreifen
+
+[72]
+Gerichtsakte
+
+[73]
+Optionen
+
+[74]
+Profile/Beweise
+
+[75]
+Zum Titelbildschirm
+
+[76]
+Cursor bewegen
+
+[77]
+Beweise drehen
+
+[78]
+î
+
+[79]
+ï
+
+[80]
+→
+
+[81]
+←
+
+[82]
+Andere Optionen
+
+[83]
+Vibrationsfunktion
+
+[84]
+Die Vibrationsfunktion ein- und ausschalten.
+
+[85]
+Vibration
+
+[86]
+Vibration ein- und ausschalten.
+
+[87]
+
+
+[88]
+
+
+[89]
+Discord RPC
+
+[90]
+Stellen Sie den Discord Rich Presence Modus ein.
+
+[91]
+Aus
+
+[92]
+Einfach
+
+[93]
+Ausführlich

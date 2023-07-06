@@ -1,0 +1,519 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 601
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 1,
+    "m_PathID": 1086
+  },
+  "m_Name": "",
+  "key_config_button_": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 3126
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3066
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3036
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2925
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2790
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2978
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2932
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2899
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2982
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2712
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3127
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2799
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2692
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3100
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3163
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3007
+      }
+    ]
+  },
+  "body_": {
+    "m_FileID": 0,
+    "m_PathID": 229
+  },
+  "option_item_": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 3065
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3074
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2856
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2730
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2895
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2769
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2844
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2988
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3161
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3170
+      }
+    ]
+  },
+  "option_item_sub_": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 2798
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2821
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2948
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2661
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3129
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3073
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2696
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2735
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2811
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 2970
+      }
+    ]
+  },
+  "line_list_": {
+    "Array": [
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1460
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1652
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1647
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1397
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1498
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1404
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1441
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 3221
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      }
+    ]
+  },
+  "sub_menu_line_list_": {
+    "Array": [
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1533
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1674
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1622
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      }
+    ]
+  },
+  "bg_": {
+    "sprite_renderer_": {
+      "m_FileID": 0,
+      "m_PathID": 1429
+    },
+    "sprite_data_": {
+      "Array": []
+    },
+    "asset_bundle_": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "sprite_no_": 0,
+    "path_": "",
+    "name_": ""
+  },
+  "menu_window_": {
+    "sprite_renderer_": {
+      "m_FileID": 0,
+      "m_PathID": 1387
+    },
+    "sprite_data_": {
+      "Array": []
+    },
+    "asset_bundle_": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "sprite_no_": 0,
+    "path_": "",
+    "name_": ""
+  },
+  "sub_menu_window_": {
+    "sprite_renderer_": {
+      "m_FileID": 0,
+      "m_PathID": 1450
+    },
+    "sprite_data_": {
+      "Array": []
+    },
+    "asset_bundle_": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "sprite_no_": 0,
+    "path_": "",
+    "name_": ""
+  },
+  "message_window_": {
+    "sprite_renderer_": {
+      "m_FileID": 0,
+      "m_PathID": 1691
+    },
+    "sprite_data_": {
+      "Array": []
+    },
+    "asset_bundle_": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "sprite_no_": 0,
+    "path_": "",
+    "name_": ""
+  },
+  "title_back_text_": {
+    "Array": [
+      {
+        "m_FileID": 0,
+        "m_PathID": 2823
+      },
+      {
+        "m_FileID": 0,
+        "m_PathID": 3008
+      }
+    ]
+  },
+  "page_guid_": {
+    "Array": [
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1660
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      },
+      {
+        "sprite_renderer_": {
+          "m_FileID": 0,
+          "m_PathID": 1500
+        },
+        "sprite_data_": {
+          "Array": []
+        },
+        "asset_bundle_": {
+          "m_FileID": 0,
+          "m_PathID": 0
+        },
+        "sprite_no_": 0,
+        "path_": "",
+        "name_": ""
+      }
+    ]
+  },
+  "top_pos_": 294.0,
+  "top_space_": 42.0,
+  "item_space_": 84.0,
+  "key_guide_": {
+    "m_FileID": 0,
+    "m_PathID": 3102
+  },
+  "confirmation_select_": {
+    "m_FileID": 0,
+    "m_PathID": 2944
+  },
+  "mask_": {
+    "sprite_renderer_": {
+      "m_FileID": 0,
+      "m_PathID": 1447
+    },
+    "sprite_data_": {
+      "Array": []
+    },
+    "asset_bundle_": {
+      "m_FileID": 0,
+      "m_PathID": 0
+    },
+    "sprite_no_": 0,
+    "path_": "",
+    "name_": ""
+  },
+  "obj_move_prefab_": {
+    "m_FileID": 2,
+    "m_PathID": 420
+  },
+  "canvas_": {
+    "m_FileID": 0,
+    "m_PathID": 2017
+  },
+  "arrow_ctrl_": {
+    "m_FileID": 0,
+    "m_PathID": 2936
+  },
+  "menu_root_": {
+    "m_FileID": 0,
+    "m_PathID": 1187
+  },
+  "key_icon_": {
+    "m_FileID": 0,
+    "m_PathID": 2975
+  },
+  "icon_text_": {
+    "m_FileID": 0,
+    "m_PathID": 2659
+  }
+}

@@ -1,0 +1,306 @@
+[0]
+Data
+
+[1]
+BGM
+
+[2]
+SE
+
+[3]
+Text Skip
+
+[4]
+Screen Shake
+
+[5]
+Vibration
+
+[6]
+Text Box
+
+[7]
+Language
+
+[8]
+Credits
+
+[9]
+Save
+
+[10]
+Load
+
+[11]
+On
+
+[12]
+Off
+
+[13]
+Single Box Skip
+
+[14]
+Full Auto-Skip
+
+[15]
+Low
+
+[16]
+High
+
+[17]
+Japanese
+
+[18]
+English
+
+[19]
+French
+
+[20]
+German
+
+[21]
+Korean
+
+[22]
+Chinese(Simplified)
+
+[23]
+Chinese(Traditional)
+
+[24]
+Save or load a game.
+
+[25]
+Adjust BGM volume.
+
+[26]
+Adjust sound effects volume.
+
+[27]
+Adjust text skip settings.
+(Hold the B Button to skip text.)
+
+[28]
+Adjust text skip settings.
+(Hold the B button to skip text.)
+
+[29]
+Adjust text skip settings.
+(Hold the × button to skip text.)
+
+[30]
+Adjust text skip settings.
+(Hold the ○ button to skip text.)
+
+[31]
+Adjust text skip settings.
+(Hold 【】 to skip text.)
+
+[32]
+Turn screen shaking on or off.
+
+[33]
+Turn vibration on or off.
+
+[34]
+Adjust text box transparency.
+
+[35]
+Select a language to play in.
+Press the A Button to set the language.
+
+[36]
+Select a language to play in.
+Press the A button to set the language.
+
+[37]
+Select a language to play in.
+Press the ○ button to set the language.
+
+[38]
+Select a language to play in.
+Press the × button to set the language.
+
+[39]
+Select a language to play in.
+Press 【】 to set the language.
+
+[40]
+Display this game's credits.
+
+[41]
+Language set.
+Return to the title screen?
+
+[42]
+Return to the title screen?
+You will lose any unsaved progress.
+
+[43]
+Back
+
+[44]
+Title Screen
+
+[45]
+Default
+
+[46]
+Language settings changed. Select a different
+language to switch to that version's save data.
+A Button: OK
+
+[47]
+Language settings changed. Select a different
+language to switch to that version's saved data.
+A button: OK
+
+[48]
+Language settings changed. Select a different
+language to switch to that version's saved data.
+○ button: OK
+
+[49]
+Language settings changed. Select a different
+language to switch to that version's saved data.
+× button: OK
+
+[50]
+Language settings changed. Select a different
+language to switch to that version's saved data.
+【】: OK
+
+[51]
+Reset everything to their default settings?
+
+[52]
+Window Mode
+
+[53]
+Resolution
+
+[54]
+Vertical Sync
+
+[55]
+Windowed
+
+[56]
+Fullscreen
+
+[57]
+
+
+[58]
+Select a display mode.
+
+[59]
+Change screen resolution.
+
+[60]
+Turn vertical sync on or off.
+
+[61]
+Change key assignments.
+Press 【】 to confirm all changes.
+
+[62]
+Customize keyboard key functionality.
+Press 【】 to assign a new key.
+
+[63]
+Press a key to assign it to this command.
+
+[64]
+Keep these key assignment changes?
+
+[65]
+Key assignments changed.
+Keep these changes?
+
+[66]
+Key Config
+
+[67]
+Confirm Changes
+
+[68]
+Confirm
+
+[69]
+Cancel
+
+[70]
+Present
+
+[71]
+Press
+
+[72]
+Court Record
+
+[73]
+Options
+
+[74]
+Profiles/Evidence
+
+[75]
+Return to Title
+
+[76]
+Move Cursors
+
+[77]
+Rotate Evidence
+
+[78]
+î
+
+[79]
+ï
+
+[80]
+→
+
+[81]
+←
+
+[82]
+Other Options
+
+[83]
+Vibration
+
+[84]
+Turn vibration on or off.
+
+[85]
+Vibration
+
+[86]
+Turn vibration on or off.
+
+[87]
+
+
+[88]
+
+
+[89]
+Discord RPC
+
+[90]
+Adjust the Discord Rich Presence mode.
+
+[91]
+Off
+
+[92]
+Simple
+
+[93]
+Detailed
