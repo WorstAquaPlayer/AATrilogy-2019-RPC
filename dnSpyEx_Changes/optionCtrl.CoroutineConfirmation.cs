@@ -19,7 +19,7 @@ public partial class optionCtrl : MonoBehaviour
 		this.key_icon_.keyIconActiveSet(false);
 		this.key_guide_.setEnables(false);
 		this.mask_.active = true;
-		if (this.type == optionCtrl.OptionType.TITLE && this.current_num_ + this.begin_num_ == 7)
+		if (this.type == optionCtrl.OptionType.TITLE && this.current_num_ + this.begin_num_ == 7) // mod
 		{
 			this.title_back_text_[0].text = TextDataCtrl.GetText(TextDataCtrl.OptionTextID.LANGUAGE_CHANGE, 0);
 			this.title_back_text_[1].text = TextDataCtrl.GetText(TextDataCtrl.OptionTextID.LANGUAGE_CHANGE, 1);
@@ -40,7 +40,16 @@ public partial class optionCtrl : MonoBehaviour
 				this.mask_.active = false;
 				this.key_guide_.setEnables(true);
 				this.key_guide_.ReLoadGuid();
-				this.SetText((optionCtrl.OptionItem)(this.current_num_ + this.begin_num_));
+
+				// mod
+				var num = this.current_num_ + this.begin_num_;
+
+				if (this.type == optionCtrl.OptionType.IN_GAME && num == 7)
+				{
+					num = 9;
+				}
+
+				this.SetText((optionCtrl.OptionItem)(num));
 				yield break;
 			}
 			yield return null;
@@ -55,7 +64,16 @@ public partial class optionCtrl : MonoBehaviour
 			this.mask_.active = false;
 			this.key_guide_.setEnables(true);
 			this.key_guide_.ReLoadGuid();
-			this.SetText((optionCtrl.OptionItem)(this.current_num_ + this.begin_num_));
+
+			// mod
+			var num = this.current_num_ + this.begin_num_;
+
+			if (this.type == optionCtrl.OptionType.IN_GAME && num == 7)
+			{
+				num = 9;
+			}
+
+			this.SetText((optionCtrl.OptionItem)(num));
 		}
 		yield return null;
         yield break;
