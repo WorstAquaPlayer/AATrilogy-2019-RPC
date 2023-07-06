@@ -1,6 +1,6 @@
 
 # AATrilogy-2019-RPC
-This mod adds Discord RPC to the game "Phoenix Wright: Ace Attorney Trilogy". <br  />
+This mod adds **Discord RPC** to the game **"Phoenix Wright: Ace Attorney Trilogy".**<br  />
 This is achieved by using the game's code to retrieve the strings seen in the Save/Load menu, which means the text is localized to the language you're playing on.<br  />
 In addition to the text, the logo also changes depending on if you're playing one of these languages: Japanese, Korean, Chinese (Simplified) or Chinese (Traditional). This is due to the fact that these languages have unique logos for each game.
 
@@ -10,11 +10,12 @@ Simply [download the latest release](https://github.com/WorstAquaPlayer/AATrilog
 This mod is meant to be installed in clean copies of the game, so if you have a mod that modifies the files **PWAAT_DATA/level0**, **PWAAT_DATA/Managed/Assembly-CSharp.dll** or any of the **PWAAT_Data/StreamingAssets/menu/text/option_text\*.bin** and **PWAAT_Data/StreamingAssets/menu/text/title_text\*.bin** files, this will replace those files and probably break the other mod.
 
 ## Usage
-Once the mod is installed, a new option is added in the options menu, simply called Discord RPC. By default, it's set to "Off", but you can set it to *Simple* or *Detailed*.
+Once the mod is installed, a new option is added in the options menu, simply called Discord RPC.
+By default, it's set to *Off*, but you can set it to *Simple* or *Detailed*.
 ### Simple and Detailed differences:
 | Simple | Detailed | Detailed (Language Example) |
 |--|--|--|
-| ![simple](https://github.com/WorstAquaPlayer/AATrilogy-2019-RPC/assets/25833407/c657ac5b-7d04-4b18-a1de-03b8447b3049) | ![detailed](https://github.com/WorstAquaPlayer/AATrilogy-2019-RPC/assets/25833407/51902f29-4420-4c1b-9959-f8bcba7af40f) | ![detailed_jp](https://github.com/WorstAquaPlayer/AATrilogy-2019-RPC/assets/25833407/b89e2a4e-455b-4b55-a167-42f29fd21fe2) |
+| ![simple](https://github.com/WorstAquaPlayer/AATrilogy-2019-RPC/assets/25833407/332d429f-97e5-44ca-ac20-892d94190850) | ![detailed](https://github.com/WorstAquaPlayer/AATrilogy-2019-RPC/assets/25833407/26788dd0-d489-4e6d-8346-ed524b81263f) | ![detailed_jp](https://github.com/WorstAquaPlayer/AATrilogy-2019-RPC/assets/25833407/a241621f-85de-4127-bd30-25bc40c65aa6) |
 
 ## "Building"
 Since this is a mod, there's no actual way to "build" this in the traditional way. To compensate that fact, this repository contains the sources of how I achieved this, along with explanations to do so.
