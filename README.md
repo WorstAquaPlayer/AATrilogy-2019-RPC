@@ -7,7 +7,7 @@ In addition to the text, the logo also changes depending on if you're playing on
 ## Installation
 Simply [download the latest release](https://github.com/WorstAquaPlayer/AATrilogy-2019-RPC/releases/latest/download/AATrilogy-RPC.zip), and extract the contents into the game's root folder.
 ### IMPORTANT:
-This mod is meant to be installed in clean copies of the game, so if you have a mod that modifies the files **PWAAT_DATA/level0** or **PWAAT_DATA/Managed/Assembly-CSharp.dll**, this will replace them.
+This mod is meant to be installed in clean copies of the game, so if you have a mod that modifies the files **PWAAT_DATA/level0**, **PWAAT_DATA/Managed/Assembly-CSharp.dll** or any of the **PWAAT_Data/StreamingAssets/menu/text/option_text\*.bin** and **PWAAT_Data/StreamingAssets/menu/text/title_text\*.bin** files, this will replace those files and probably break the other mod.
 
 ## Usage
 Once the mod is installed, a new option is added in the options menu, simply called Discord RPC. By default, it's set to "Off", but you can set it to *Simple* or *Detailed*.
